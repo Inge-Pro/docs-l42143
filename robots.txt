@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ejcp3m.bobatoto21ggp.site/sitemap.xml
